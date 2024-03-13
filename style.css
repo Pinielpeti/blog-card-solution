@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree";
+}
+
+.takimaki{
+    border: 1px solid white;
+    margin-top: 15%;
+    margin-left: 35%;
+    
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15%;
+    width: fit-content;
+    box-shadow:  10px 10px  #000;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h3{
+    border: 1px solid hsl(47, 88%, 63%);
+    padding: 5px 10px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: hsl(47, 88%, 63%);
+
+}
+
+
+
+h4{
+    color: hsl(0, 0%, 50%);
+}
+
+.faszom{
+    float:right;
+    margin-right: 58%;
+    font-weight: bold;
+    font-size: 17px;
+    
+
+}
